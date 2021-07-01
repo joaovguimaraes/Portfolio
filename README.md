@@ -1,5 +1,5 @@
 # Project in development
-<p>A repository of an react random things</p>
+<p>A repository of an react/css random things</p>
 <br>
 <h2 align="center">&#x1F6A7 Project in development &#x1F6A7</h2>
 <br>
