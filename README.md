@@ -3,13 +3,11 @@
 <br>
 <h2 align="center">&#x1F6A7 Project in development &#x1F6A7</h2>
 <br>
-<h2>&#x1F6E0 Tecnologias:</h2>
-<p align="justify">As seguintes ferramentas foram usadas na construção de Podcastr:</p>
+<h2>&#x1F6E0 Technologies: </h2>
 <ul>
     <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/About_JavaScript">JavaScript</a></li>
-    <li><a href="https://reactjs.org/">React</a></li>
-    <li><a href="https://nodejs.org/en/about/">Node</a></li>
-    <li><a href="https://yarnpkg.com/">Yarn</a></li>
+    <li><a href="https://reactjs.org/">ReactJS</a></li>
+    <li><a href="https://nodejs.org/en/about/">NodeJS</a></li>
 </ul>
 <br>
 <p>Created by Jardel Urban and João Victor Guimarães</p>
