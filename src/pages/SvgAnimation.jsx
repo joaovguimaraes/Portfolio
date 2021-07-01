@@ -1,9 +1,12 @@
 import '../styles/SvgAnimation.scss'
 
+import SvgCiclista from '../components/SvgAnimation/SvgCiclista'
+import Container from '../components/Container'
+
 export default function SvgAnimation (){
  return (
-     <div>
-         <h1>Hello world</h1>
-     </div>
+     <Container>
+         <SvgCiclista />            
+    </Container>
  )
 }
